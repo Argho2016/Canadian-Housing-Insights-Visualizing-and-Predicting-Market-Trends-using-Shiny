@@ -1,0 +1,2 @@
+# Canadian-Housing-Insights-Visualizing-and-Predicting-Market-Trends-using-Shiny
+This Shiny web application provides an interactive platform to explore and analyze residential real estate data from across Canada. The project enables users to visualize housing market trends, examine regional price distributions, compare cities, and understand socio-economic factors such as household income in the housing landscape. 
