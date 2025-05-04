@@ -19,6 +19,53 @@ Welcome to the **Canadian Housing Insights** Shiny Dashboard — an interactive 
 - [🙋‍♂️ Contact](#contact)
 
 ---
+## 📸 Project Visuals
+
+Below are key visualizations from the interactive R Shiny application:
+
+---
+
+### 💰 Household Income Distribution
+This plot shows the distribution of simulated household income data associated with each property listing.
+
+![Household Income Distribution](images/Household%20income.PNG)
+
+---
+
+### 📊 Price Distribution
+A histogram illustrating the distribution of housing prices filtered by city, province, number of bedrooms, and bathrooms.
+
+![Price Distribution](images/price%20distribution.PNG)
+
+---
+
+### 🏙️ Price by City
+A boxplot comparing house prices across selected cities, giving insights into price dispersion and median values.
+
+![Price by City](images/price%20by%20city.PNG)
+
+---
+
+### 🗺️ Map View
+An interactive leaflet map showing geographical distribution of listings, with popups for price, beds, baths, and city/province.
+
+![Map View](images/map.PNG)
+
+---
+
+### 🆚 City Comparison
+A violin plot comparing house prices between two user-selected cities for side-by-side visualization of distributions.
+
+![City Comparison](images/city%20compa.PNG)
+
+---
+
+### 📋 Summary Statistics Table
+An interactive summary table showing average, median, minimum, and maximum house prices grouped by city.
+
+![Summary Stats Table](images/summary%20stats.PNG)
+
+---
 
 ## 📚 Project Overview
 
